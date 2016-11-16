@@ -1,0 +1,16 @@
+body {
+  background-color: #3B5998;
+}
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+a {
+  color:white;
+}
+.jumbotron {
+  background-image: url("header_img.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
