@@ -1,5 +1,5 @@
 body {
-  background-color: #3B5998;
+  background-color: #459DD1;
 }
 a:hover {
   text-decoration: none;
@@ -9,8 +9,26 @@ a {
   color:white;
 }
 .jumbotron {
-  background-image: url("header_img.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color:#3C464F;
   color: white;
+}
+#error {
+    background-color: #C22326;
+    margin: 20px 100px 100px 20px;
+}
+.hit {
+  padding: 10px;
+  border-bottom: 1px solid black;
+
+}
+#searchSection {
+  margin-bottom: 10px;
+
+}
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
 }
